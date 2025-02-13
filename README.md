@@ -10,4 +10,6 @@
 ## Gunakan data pasien yang ada pada dokumentasi satusehat
 <a href="https://satusehat.kemkes.go.id/platform/docs/id/api-catalogue/onboardings/apis/patient/">https://satusehat.kemkes.go.id/platform/docs/id/api-catalogue/onboardings/apis/patient/</a>
 
-
+<p align="center">
+<img src="https://github.com/muzanni/satusehatAPI/blob/main/Form%20Pencarian.png" alt="Build Status">
+</p>
