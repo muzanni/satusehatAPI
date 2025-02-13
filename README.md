@@ -10,7 +10,14 @@
 ## Gunakan data pasien yang ada pada dokumentasi satusehat
 <a href="https://satusehat.kemkes.go.id/platform/docs/id/api-catalogue/onboardings/apis/patient/">https://satusehat.kemkes.go.id/platform/docs/id/api-catalogue/onboardings/apis/patient/</a>
 
+## GUI LARAVEL
 <p align="center">
 <img src="https://github.com/muzanni/satusehatAPI/blob/main/Form%20Pencarian.png" alt="Form Pencarian">
 <img src="https://github.com/muzanni/satusehatAPI/blob/main/Hasil%20Pencarian.png" alt="Hasil Pencarian NIK">
+</p>
+
+## POSTMAN
+<p align="center">
+<img src="https://github.com/muzanni/satusehatAPI/blob/main/get%20token%20POSTMAN.png" alt="get token">
+<img src="https://github.com/muzanni/satusehatAPI/blob/main/get%20data%20pasien%20by%20NIK%20POSTMAN.png" alt="Get Data By NIK">
 </p>
